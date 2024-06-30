@@ -1,4 +1,4 @@
-# Java-intermediate-question-answers
+# Java-question-answers
 In this Repository I am sharing my answers that I try to solve interview qustions sites.
 Now just I am writing with Java language.
 
