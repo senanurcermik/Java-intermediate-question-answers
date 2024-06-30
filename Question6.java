@@ -1,4 +1,4 @@
-
+/*Searching target in the array firstly sort and if exist print index number if dont write -1*/
 import java.util.Arrays;
 import java.util.Scanner;
 
